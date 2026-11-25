@@ -1,2 +1,2 @@
-# vize-nazenin-say-ner
+# vize-nazenin-sayıner
 Görsel programlama vize sınav projesi
